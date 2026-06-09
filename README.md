@@ -1,2 +1,10 @@
-# Smart-Milky-Mushroom-Monitoring-System
-AI-based Smart Milky Mushroom Monitoring System using YOLOv11 for mushroom health detection, analytics dashboard, login authentication, and environmental monitoring.
+Smart Milky Mushroom Monitoring System
+
+Features:
+- YOLOv11 Mushroom Detection
+- Healthy, PoorGrowth, and Contaminated Classification
+- Environmental Monitoring
+- Analytics Dashboard
+- Prediction History
+- Login Authentication
+- Streamlit Web Application
